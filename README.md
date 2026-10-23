@@ -421,6 +421,7 @@ Esta página permitió comprobar el acceso a la sección protegida para usuarios
 **Dificultad:** Laravel intentaba conectarse a una base de datos llamada `laravel`, aunque la base de datos creada en phpMyAdmin tenía el nombre `laravellab`.
 
 **Solución:** se revisó el archivo `.env`, se habilitaron las variables de conexión que estaban comentadas y se configuró el nombre correcto de la base de datos. Después se ejecutó `php artisan config:clear`.
+
 <img width="247" height="151" alt="image" src="https://github.com/user-attachments/assets/bffc3956-4053-4ff4-a01a-db714a6a763a" />
 
 
