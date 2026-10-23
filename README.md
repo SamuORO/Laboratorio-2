@@ -48,9 +48,9 @@ Para realizar el laboratorio se utilizaron las siguientes herramientas y tecnolo
 | Tecnología | Detalle |
 |:---:|---|
 | <img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/13ed7e81-cfcf-45ec-9b0b-5c5b522a955c" />| **Sistema operativo:** Windows 11 |
-| ![PHP](docs/iconos/php.png) | **PHP:** 8.3.28 |
-| ![Composer](docs/iconos/composer.png) | **Composer:** 2.10.3 |
-| ![Laravel](docs/iconos/laravel.png) | **Laravel Installer:** 5.32.0 · **Laravel Framework:** 13.37.0 (`laravel new`) |
+| <img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/2c3a1372-de3d-4bd1-b653-15680e96b570" />| **PHP:** 8.3.28 |
+| <img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/ffe48f2e-845d-47a2-a4d2-e8f0ab65b080" />| **Composer:** 2.10.3 |
+| <img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/1601ea0b-57bd-4c9f-a879-c7cdb5816eb8" />| **Laravel Installer:** 5.32.0 · **Laravel Framework:** 13.37.0 (`laravel new`) |
 | ![Apache](docs/iconos/apache.png) | **Servidor web:** Apache 2.4.65, incluido en WampServer |
 | ![MySQL](docs/iconos/mysql.png) | **Base de datos:** MySQL 8.4.7, administrada con phpMyAdmin 5.2.3 (usuario `root`) |
 | ![WAMP](docs/iconos/wamp.png) | **Entorno de desarrollo local:** WampServer (`C:\wamp64\www`) |
