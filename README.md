@@ -437,11 +437,16 @@ Esta página permitió comprobar el acceso a la sección protegida para usuarios
 
 **Solución:** como la base de datos de práctica no contenía información que se necesitara conservar, se eliminaron las tablas de `laravellab` desde phpMyAdmin y se ejecutaron las migraciones nuevamente desde cero.
 
+<img width="1246" height="416" alt="image" src="https://github.com/user-attachments/assets/81fadd96-0a20-447c-a20f-f05ff4e0e2aa" />
+
+
 ### 9.4. Bloqueo de npm en PowerShell
 
 **Dificultad:** al ejecutar `npm install`, PowerShell mostraba un error de seguridad porque la ejecución de scripts estaba deshabilitada.
 
 **Solución:** se utilizó `npm.cmd install` y posteriormente `npm.cmd run dev`, evitando tener que cambiar la política de ejecución de PowerShell.
+
+<img width="1243" height="202" alt="image" src="https://github.com/user-attachments/assets/fedc8142-0199-445c-9364-7d7aa92bea37" />
 
 ### 9.5. Error de middleware en los controladores
 
