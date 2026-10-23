@@ -43,6 +43,24 @@ Para realizar el laboratorio se utilizaron las siguientes herramientas y tecnolo
 | Editor de código | Bloc de notas y terminal PowerShell |
 | Navegador | Google Chrome |
 
+### Requisitos previos y tecnologías utilizadas
+
+| Tecnología | Detalle |
+|:---:|---|
+| <img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/13ed7e81-cfcf-45ec-9b0b-5c5b522a955c" />
+ | **Sistema operativo:** Windows 11 |
+| ![PHP](docs/iconos/php.png) | **PHP:** 8.3.28 |
+| ![Composer](docs/iconos/composer.png) | **Composer:** 2.10.3 |
+| ![Laravel](docs/iconos/laravel.png) | **Laravel Installer:** 5.32.0 · **Laravel Framework:** 13.37.0 (`laravel new`) |
+| ![Apache](docs/iconos/apache.png) | **Servidor web:** Apache 2.4.65, incluido en WampServer |
+| ![MySQL](docs/iconos/mysql.png) | **Base de datos:** MySQL 8.4.7, administrada con phpMyAdmin 5.2.3 (usuario `root`) |
+| ![WAMP](docs/iconos/wamp.png) | **Entorno de desarrollo local:** WampServer (`C:\wamp64\www`) |
+| ![VS Code](docs/iconos/vscode.png) | **Editor de código:** Visual Studio Code |
+| ![Node.js](docs/iconos/npm.png) | **Herramientas frontend:** npm (`npm install` y `npm run dev`) con Vite 8.3.4 |
+| ![Laravel UI](docs/iconos/laravel.png) | **Autenticación:** Laravel UI 4.6.3, con scaffolding de Bootstrap |
+| ![Chrome](docs/iconos/chrome.png) | **Navegador web:** Google Chrome |
+
+> **Nota:** Los iconos deben guardarse en la carpeta `docs/iconos/` con los nombres indicados en la tabla. Puedes usar imágenes PNG pequeñas, preferiblemente cuadradas y con fondo transparente.
 ### 3.1. Verificación de las herramientas
 
 Antes de crear el proyecto se comprobaron las versiones de las herramientas mediante los siguientes comandos:
