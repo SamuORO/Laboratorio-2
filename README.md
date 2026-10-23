@@ -233,6 +233,7 @@ php artisan config:clear
 ```
 
 Este paso permite que Laravel vuelva a leer las variables actualizadas del archivo `.env`.
+
 <img width="386" height="97" alt="Captura de pantalla 2026-10-22 180036" src="https://github.com/user-attachments/assets/4d5e2fea-ebed-4d09-8156-7ed0cbf6e56a" />
 
 
