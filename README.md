@@ -25,25 +25,9 @@ El objetivo principal fue comprender cómo se relacionan las rutas, los controla
 - Identificar y resolver errores de configuración, migraciones y compatibilidad.
 - Documentar los resultados obtenidos durante el laboratorio.
 
-## 3. Requisitos previos
+## 3. Requisitos previos y tecnologías utilizadas
 
 Para realizar el laboratorio se utilizaron las siguientes herramientas y tecnologías:
-
-| Tecnología | Versión o configuración |
-|---|---|
-| Sistema operativo | Windows 11 |
-| PHP | 8.3.28 |
-| Composer | 2.10.3 |
-| Laravel Installer | 5.32.0 |
-| Laravel Framework | 13.37.0 |
-| Laravel UI | 4.6.3 |
-| Servidor local | WampServer (WAMP) |
-| Base de datos | MySQL |
-| Node.js y npm | Instalados en el equipo |
-| Editor de código | Bloc de notas y terminal PowerShell |
-| Navegador | Google Chrome |
-
-### Requisitos previos y tecnologías utilizadas
 
 | Tecnología | Detalle |
 |:---:|---|
@@ -59,7 +43,7 @@ Para realizar el laboratorio se utilizaron las siguientes herramientas y tecnolo
 | <img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/1601ea0b-57bd-4c9f-a879-c7cdb5816eb8" /> | **Autenticación:** Laravel UI 4.6.3, con scaffolding de Bootstrap |
 | <img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/e4b25607-0eb9-487a-b70c-142abf23db7d" />| **Navegador web:** Google Chrome |
 
-> **Nota:** Los iconos deben guardarse en la carpeta `docs/iconos/` con los nombres indicados en la tabla. Puedes usar imágenes PNG pequeñas, preferiblemente cuadradas y con fondo transparente.
+
 ### 3.1. Verificación de las herramientas
 
 Antes de crear el proyecto se comprobaron las versiones de las herramientas mediante los siguientes comandos:
