@@ -47,7 +47,7 @@ Para realizar el laboratorio se utilizaron las siguientes herramientas y tecnolo
 
 | Tecnología | Detalle |
 |:---:|---|
-| <img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/13ed7e81-cfcf-45ec-9b0b-5c5b522a955c" />
+| <img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/13ed7e81-cfcf-45ec-9b0b-5c5b522a955c" />
  | **Sistema operativo:** Windows 11 |
 | ![PHP](docs/iconos/php.png) | **PHP:** 8.3.28 |
 | ![Composer](docs/iconos/composer.png) | **Composer:** 2.10.3 |
