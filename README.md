@@ -190,8 +190,6 @@ Entre las rutas generadas para el laboratorio se encuentran:
 
 Las rutas de autenticación permiten controlar el acceso a las funcionalidades y relacionan las solicitudes con sus respectivos controladores.
 
-<img width="386" height="97" alt="Captura de pantalla 2026-10-22 180036" src="https://github.com/user-attachments/assets/87cefd2e-e372-4cb1-b69e-7f379024e7b4" />
-
 
 ## 6. Configuración de la base de datos MySQL
 
