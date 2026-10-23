@@ -54,10 +54,10 @@ Para realizar el laboratorio se utilizaron las siguientes herramientas y tecnolo
 | <img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/403b59f3-6fd5-4a29-8510-d93cd0dda1ee" />| **Servidor web:** Apache 2.4.65, incluido en WampServer |
 | <img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/6df06f68-e255-431d-9c8a-477d491f2c65" />| **Base de datos:** MySQL 8.4.7, administrada con phpMyAdmin 5.2.3 (usuario `root`) |
 | <img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/d436645b-022d-4d0b-9a77-6f8bcf6039db" />| **Entorno de desarrollo local:** WampServer (`C:\wamp64\www`) |
-| <img width="3840" height="3840" alt="image" src="https://github.com/user-attachments/assets/e6f29db3-cb0b-4a5e-8738-aefb279b463d" />| **Editor de código:** Visual Studio Code |
-| <img width="960" height="588" alt="image" src="https://github.com/user-attachments/assets/dd9618a2-2e74-4cc0-bfbb-323fd41248dc" />| **Herramientas frontend:** npm (`npm install` y `npm run dev`) con Vite 8.3.4 |
+| <img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/e6f29db3-cb0b-4a5e-8738-aefb279b463d" />| **Editor de código:** Visual Studio Code |
+| <img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/dd9618a2-2e74-4cc0-bfbb-323fd41248dc" />| **Herramientas frontend:** npm (`npm install` y `npm run dev`) con Vite 8.3.4 |
 | <img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/1601ea0b-57bd-4c9f-a879-c7cdb5816eb8" /> | **Autenticación:** Laravel UI 4.6.3, con scaffolding de Bootstrap |
-| <img width="1280" height="1280" alt="image" src="https://github.com/user-attachments/assets/e4b25607-0eb9-487a-b70c-142abf23db7d" />| **Navegador web:** Google Chrome |
+| <img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/e4b25607-0eb9-487a-b70c-142abf23db7d" />| **Navegador web:** Google Chrome |
 
 > **Nota:** Los iconos deben guardarse en la carpeta `docs/iconos/` con los nombres indicados en la tabla. Puedes usar imágenes PNG pequeñas, preferiblemente cuadradas y con fondo transparente.
 ### 3.1. Verificación de las herramientas
